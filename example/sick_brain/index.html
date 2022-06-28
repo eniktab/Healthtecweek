@@ -13,7 +13,7 @@
     const elem = document.getElementById('3d-graph');
 
     const Graph = ForceGraph3D()(elem)
-      .jsonUrl('../datasets/blocks.json')
+      .jsonUrl('../datasets/blocks.js')
       .nodeAutoColorBy('user')
       .nodeLabel(node => `${node.user}: ${node.description}`)
       .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));
