@@ -10,5 +10,4 @@ rare and ultra-rare inheritable neurological disorders
 
 
 ## Networks
-[Healthy Brain Network](https://https://github.com/eniktab/Healthtecweek/tree/master/example/healthy_brain) \
 [Sick Brain Network](https://github.com/eniktab/Healthtecweek/tree/master/example/sick_brain) 
